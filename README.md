@@ -98,3 +98,14 @@ Analyzes:
 ## Project Outcome
 
 The project transformed raw transactional retail data into an interactive business intelligence solution that connects sales performance, product contribution, customer behavior, and market performance to actionable business decisions.
+
+## Dashboard Preview
+
+### Executive Performance
+![Executive Performance](executive-performance.png)
+
+### Product Intelligence
+![Product Intelligence](product-intelligence.png)
+
+### Customer & Market Intelligence
+![Customer & Market Intelligence](customer-market-intelligence.png)
